@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Rakshith
-- 👀 I’m interested in Maths
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in Math and other shit..
+- 🌱 trying to code!
+- 
 
 <!---
 Rakshith-MV/Rakshith-MV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
