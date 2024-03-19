@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Rakshith
-- 👀 I’m interested in Math and other shit..
 - 🌱 trying to code!
 - 
 
